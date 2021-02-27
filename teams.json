@@ -6,7 +6,8 @@
 "conference": "East",
 "division": "Southeast",
 "full_name": "Atlanta Hawks",
-"name": "Hawks"
+"name": "Hawks",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/400px-Atlanta_Hawks_logo.svg.png"  
 },
 {
 "id": 2,
@@ -16,6 +17,7 @@
 "division": "Atlantic",
 "full_name": "Boston Celtics",
 "name": "Celtics"
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/400px-Atlanta_Hawks_logo.svg.png" 
 },
 {
 "id": 3,
